@@ -1,0 +1,135 @@
+
+
+
+
+
+
+.container{
+    max-width: 1245px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+
+.discovery{
+    width: 476px;
+    margin-right: 83px;
+}
+
+
+
+
+
+
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 33px;
+
+}
+
+
+.card{
+    width: 286px;
+   
+}
+
+
+section{
+    display: flex;
+    margin-top: 90px;
+} 
+  
+
+
+
+
+.discovery h4 {
+color: #636060;
+font-size: 17px;
+margin-bottom: 9px;
+
+}
+
+
+.discovery h2 {
+    color: #010101;
+    font-size: 28px;
+    margin-bottom: 36px;
+}
+
+.discovery p {
+    color: #636060;
+    font-size:20px;
+}
+
+
+.card h2 {
+    font-size: 19px;
+    color: #343232;
+    margin-bottom: 9px;
+
+}
+
+.card p {
+    font-size: 18px;
+    color: #636060;
+
+}
+
+
+.card img{
+    width: 100%;
+    margin-bottom: 23px;
+}
+
+
+
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    margin-left: 808px;
+    margin-top: 33px;
+    color: #636060;
+    font-family: Helvetica;
+ 
+    
+}
+
+.bigp{
+    background-image: url(../images/bigp.svg);
+    width: 100%;
+    height: 606px;
+    background-repeat: no-repeat;
+    margin-top:31px ;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    
+
+
+}
+
+
+h1{
+    color: #FFFFFF;
+    font-size:79px;
+    font-family: helvetica;
+    font-weight: 700;
+}
+
+ h5 {
+    color: #FFFFFF;
+    font-size:19px;
+    font-weight: 400;
+    font-family: helvetica;
+}
+
+
+
+
+
